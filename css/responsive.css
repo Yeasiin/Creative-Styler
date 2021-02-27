@@ -1,0 +1,139 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.slider-area .single-slider h2 {
+	font-size: 65px;
+
+}
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.slider-area .single-slider h2 {
+	font-size: 55px;
+	margin-bottom: 35px;
+}
+.single-features {
+	padding-left:0px;
+}
+.counter-area .single-counter span {
+	font-size: 50px;
+}
+.counter-area .single-counter p {
+	font-size: 17px;
+	line-height: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.slider-area .single-slider h2 {
+	font-size: 25px;
+	margin-bottom: 30px;
+}
+.single-features {
+	padding-left:0px;
+}
+.owl-nav {
+	display:none;
+}
+.btn {
+	padding: 14px 20px;
+}
+.t-down {
+	width: 40px;
+	padding: 6px;
+	height: 40px;
+}
+.welcome-info h2 {
+	font-size: 20px;
+	line-height: 30px;
+	margin-bottom: 25px;
+}
+.welcome-info h3 {
+	font-size: 15px;
+	margin-bottom: 10px;
+}
+.welcome-info p {
+	margin-bottom: 30px;
+}
+.section-title h2 {
+	font-size: 27px;
+}
+.static-area .static-info h2 {
+	font-size: 30px;
+	line-height: 40px;
+	margin-bottom: 15px;
+}
+.static-info p {
+	margin-bottom: 30px;
+}
+.footer-widget .instagram {
+	margin-right: 0;
+}
+.single-features h2 {
+	font-size: 35px;
+}
+.counter-area .single-counter span {
+	font-size: 50px;
+	color: #ffffff;
+}
+.counter-area .single-counter p {
+	font-size: 15px;
+	line-height: 20px;
+}
+
+
+
+
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ .slider-area .single-slider h2 {
+	font-size: 35px;
+}
+.welcome-info h2 {
+	font-size: 25px;
+	line-height: 33px;
+}
+ .welcome-info p {
+	font-size: 15px;
+}
+.static-area .static-info h2 {
+	font-size: 45px;
+	line-height: 50px;
+	margin-bottom: 20px;
+}
+.section-title p {
+	font-size: 15px;
+}
+
+
+ 
+}
